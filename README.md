@@ -10,3 +10,5 @@ The above question is asked 2 more times.
 Finally, the program will tell you the name of the card that you chose at the beginning.
 <br><br>
 This magic trick is nothing but a pure implementation of data structures and algorithms.
+<br><br>
+Go to https://card-magic-game-in-python.sumanadhikari.repl.run/ for playing the game online!
